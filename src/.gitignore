@@ -1,0 +1,9 @@
+out/*
+*.path
+*.sign
+*.tgt
+
+.classpath
+.project
+.settings
+.idea/*

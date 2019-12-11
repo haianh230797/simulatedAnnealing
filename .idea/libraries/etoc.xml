@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="etoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Downloads/etoc/etoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
