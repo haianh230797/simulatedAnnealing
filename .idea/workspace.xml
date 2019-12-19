@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6fbc131-a1ac-42bc-90b3-ce6f3c20fa1c" name="Default Changelist" comment="" />
+    <list default="true" id="f6fbc131-a1ac-42bc-90b3-ce6f3c20fa1c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Branch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PathRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimAne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testcase_Monthu3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testcase_Monthu3/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testcase_Monthu3/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testcase_Monthu3/Triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +24,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UmhaTFLmGlUWXTTAShDsXy2v5l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -91,26 +107,46 @@
       <screen x="53" y="27" width="1313" height="741" />
     </state>
     <state x="292" y="104" width="814" height="585" key="FileChooserDialogImpl/53.27.1313.741@53.27.1313.741" timestamp="1576077382550" />
-    <state width="1267" height="235" key="GridCell.Tab.0.bottom" timestamp="1576077422061">
+    <state width="1267" height="226" key="GridCell.Tab.0.bottom" timestamp="1576775975301">
       <screen x="53" y="27" width="1313" height="741" />
     </state>
-    <state width="1267" height="235" key="GridCell.Tab.0.bottom/53.27.1313.741@53.27.1313.741" timestamp="1576077422061" />
-    <state width="1267" height="235" key="GridCell.Tab.0.center" timestamp="1576077422060">
+    <state width="1267" height="226" key="GridCell.Tab.0.bottom/53.27.1313.741@53.27.1313.741" timestamp="1576775975301" />
+    <state width="1267" height="226" key="GridCell.Tab.0.center" timestamp="1576775975300">
       <screen x="53" y="27" width="1313" height="741" />
     </state>
-    <state width="1267" height="235" key="GridCell.Tab.0.center/53.27.1313.741@53.27.1313.741" timestamp="1576077422060" />
-    <state width="1267" height="235" key="GridCell.Tab.0.left" timestamp="1576077422060">
+    <state width="1267" height="226" key="GridCell.Tab.0.center/53.27.1313.741@53.27.1313.741" timestamp="1576775975300" />
+    <state width="1267" height="226" key="GridCell.Tab.0.left" timestamp="1576775975299">
       <screen x="53" y="27" width="1313" height="741" />
     </state>
-    <state width="1267" height="235" key="GridCell.Tab.0.left/53.27.1313.741@53.27.1313.741" timestamp="1576077422060" />
-    <state width="1267" height="235" key="GridCell.Tab.0.right" timestamp="1576077422060">
+    <state width="1267" height="226" key="GridCell.Tab.0.left/53.27.1313.741@53.27.1313.741" timestamp="1576775975299" />
+    <state width="1267" height="226" key="GridCell.Tab.0.right" timestamp="1576775975300">
       <screen x="53" y="27" width="1313" height="741" />
     </state>
-    <state width="1267" height="235" key="GridCell.Tab.0.right/53.27.1313.741@53.27.1313.741" timestamp="1576077422060" />
+    <state width="1267" height="226" key="GridCell.Tab.0.right/53.27.1313.741@53.27.1313.741" timestamp="1576775975300" />
+    <state width="1267" height="111" key="GridCell.Tab.1.bottom" timestamp="1576490620231">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state width="1267" height="111" key="GridCell.Tab.1.bottom/53.27.1313.741@53.27.1313.741" timestamp="1576490620231" />
+    <state width="1267" height="111" key="GridCell.Tab.1.center" timestamp="1576490620230">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state width="1267" height="111" key="GridCell.Tab.1.center/53.27.1313.741@53.27.1313.741" timestamp="1576490620230" />
+    <state width="1267" height="111" key="GridCell.Tab.1.left" timestamp="1576490620230">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state width="1267" height="111" key="GridCell.Tab.1.left/53.27.1313.741@53.27.1313.741" timestamp="1576490620230" />
+    <state width="1267" height="111" key="GridCell.Tab.1.right" timestamp="1576490620231">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state width="1267" height="111" key="GridCell.Tab.1.right/53.27.1313.741@53.27.1313.741" timestamp="1576490620231" />
     <state x="192" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1576077386804">
       <screen x="53" y="27" width="1313" height="741" />
     </state>
     <state x="192" y="27" width="1024" height="741" key="SettingsEditor/53.27.1313.741@53.27.1313.741" timestamp="1576077386804" />
+    <state x="1255" y="53" width="561" height="696" key="dock-window-1" timestamp="1576651103321">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state x="1255" y="53" width="561" height="696" key="dock-window-1/53.27.1313.741@53.27.1313.741" timestamp="1576651103321" />
     <state x="264" y="27" width="869" height="741" key="find.popup" timestamp="1576075715245">
       <screen x="53" y="27" width="1313" height="741" />
     </state>

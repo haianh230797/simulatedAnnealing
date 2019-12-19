@@ -7,11 +7,15 @@ public class Main {
         filePath[0] = "-d=./out";
         filePath[1] = "src/" + target + ".oj";
 
+
         PathGenerator pathGenerator = new PathGenerator();
         pathGenerator.gen(filePath);
 
-
+        SimAne.testCase();
     }
+
+
+
 }
 
 
