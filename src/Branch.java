@@ -16,7 +16,7 @@ public class Branch {
     public String toString() {
         StringBuilder string = new StringBuilder();
         for (Node node : nodes) {
-            string.append(node.getValue()).append(" ");
+            string.append(node.getValue()).append("");
         }
         return string.toString();
     }
@@ -27,5 +27,6 @@ public class Branch {
         }
         return set;
     }
+
 
 }
